@@ -3,8 +3,9 @@ Project
 
 ###Install
 
-1. Download your own version of this project by dowloading it from GitHub directly:
-github-windows://openRepo/https://github.com/ishaqj/MVC-Project
+1. Download or clone your own version of this project by dowloading it from GitHub directly:
+https://github.com/ishaqj/MVC-Project/archive/master.zip
+https://github.com/ishaqj/MVC-Project.git
 
 2. Open /app/config/config_mysql.php and add your mysql info.
 
