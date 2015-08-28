@@ -1,0 +1,1258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"answer",
+				"$answerArray〔variable〕"
+			],
+			[
+				"find",
+				"findAll〔function〕"
+			],
+			[
+				"answe",
+				"$answerArray〔variable〕"
+			],
+			[
+				"foreach",
+				"foreach	foreach …"
+			],
+			[
+				"for",
+				"foreach	<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"and",
+				"andWhere"
+			],
+			[
+				"con",
+				"$condition〔variable〕"
+			],
+			[
+				"Ak",
+				"Aktiviteter"
+			],
+			[
+				"Akt",
+				"Aktiviteten"
+			],
+			[
+				"Aktiv",
+				"Aktiviteter"
+			],
+			[
+				"Anvä",
+				"Användaren"
+			],
+			[
+				"shortterm",
+				"shorttermvalues"
+			],
+			[
+				"uppdat",
+				"uppdaterats"
+			],
+			[
+				"uppd",
+				"uppdaterats"
+			],
+			[
+				"prioir",
+				"priorityvalues"
+			],
+			[
+				"priori",
+				"priorityvalues"
+			],
+			[
+				"prio",
+				"priority='ja"
+			],
+			[
+				"els",
+				"elseif〔keyword〕"
+			],
+			[
+				"G",
+				"getInstance〔function〕"
+			],
+			[
+				"commonac",
+				"commonactivity"
+			],
+			[
+				"autof",
+				"autofocus"
+			],
+			[
+				"aktiv",
+				"aktiviteter"
+			],
+			[
+				"term",
+				"termvalues"
+			],
+			[
+				"akti",
+				"aktiviteter"
+			],
+			[
+				"akt",
+				"$aktiviteterna〔variable〕"
+			],
+			[
+				"pri",
+				"priority='ja"
+			],
+			[
+				"get",
+				"getInstance〔function〕"
+			],
+			[
+				"p",
+				"priorityvalues"
+			],
+			[
+				"shor",
+				"shorttermRemove"
+			],
+			[
+				"karnvar",
+				"karnvarden_list"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"usk",
+				"userkarnvarden"
+			],
+			[
+				"aktivit",
+				"$aktiviteter〔variable〕"
+			],
+			[
+				"user",
+				"userkarnvarden"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"q",
+				"$question〔variable〕"
+			],
+			[
+				"isse",
+				"isset〔function〕"
+			],
+			[
+				"Users",
+				"User〔class〕"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"WHE",
+				"WHERE"
+			],
+			[
+				"emp",
+				"empty〔function〕"
+			],
+			[
+				"empty",
+				"empty〔keyword〕"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"att",
+				"attitydbild"
+			],
+			[
+				"bild",
+				"$bildtext〔variable〕"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"_POST",
+				"$_POST〔variable〕"
+			],
+			[
+				"inc",
+				"include〔function〕"
+			],
+			[
+				"act",
+				"$activity_id〔variable〕"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"karn",
+				"$karnvarden〔variable〕"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"activity",
+				"activityfield"
+			],
+			[
+				"val",
+				"val〔function〕"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"karnvarden",
+				"karnvarden_id"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"conten",
+				"contentanswer"
+			],
+			[
+				"gam",
+				"gameoversnd"
+			],
+			[
+				"gameover",
+				"gameoversnd"
+			],
+			[
+				"output",
+				"outputLog"
+			],
+			[
+				"kaka",
+				"kaka"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"item",
+				"itemCounter"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"my",
+				"myFruit"
+			],
+			[
+				"k",
+				"kiwi"
+			],
+			[
+				"del",
+				"dealer3"
+			],
+			[
+				"delar",
+				"dealer2"
+			],
+			[
+				"deal",
+				"dealer1"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"word",
+				"wordOne"
+			],
+			[
+				"bo",
+				"bothWords"
+			],
+			[
+				"sec",
+				"secondWord"
+			],
+			[
+				"first",
+				"firstWord"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"float",
+				"floatTwo"
+			],
+			[
+				"number",
+				"numberTwo"
+			],
+			[
+				"numberT",
+				"numberThree"
+			],
+			[
+				"numb",
+				"numberTwo"
+			],
+			[
+				"numbe",
+				"numberThree"
+			],
+			[
+				"num",
+				"numberOne"
+			],
+			[
+				"boro",
+				"border-bottom"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"newpassword",
+				"newpassword_error"
+			],
+			[
+				"current",
+				"currentpassword"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"Select",
+				"SelectQuery"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"amo",
+				"Amount_afterchange"
+			],
+			[
+				"amout",
+				"Amount_afterchange"
+			],
+			[
+				"nr",
+				"nrAcc"
+			],
+			[
+				"Sessi",
+				"Session"
+			],
+			[
+				"fav",
+				"favorites"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"Sess",
+				"Session"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Question/QuestionsController.php",
+			"settings":
+			{
+				"buffer_size": 21047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Answers/AnswersController.php",
+			"settings":
+			{
+				"buffer_size": 19366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/DI/CDIFactoryDefault.php",
+			"settings":
+			{
+				"buffer_size": 4987,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/phpmvc/kmom01/webroot/.htaccess",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/phpmvc/kmom01/app/content/redovisning.md",
+			"settings":
+			{
+				"buffer_size": 2228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/phpmvc/kmom01/src/Content/CTextFilter.php",
+			"settings":
+			{
+				"buffer_size": 6022,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sft",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"setu",
+				"SFTP: Setup Server…"
+			],
+			[
+				"setup s",
+				"SFTP: Setup Server…"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/phpmvc/kmom01/3pp/php-markdown/Michelf/MarkdownExtra.inc.php",
+		"/C/wamp/www/phpmvc/kmom01/3pp/php-markdown/Michelf/MarkdownExtra.php",
+		"/C/wamp/www/phpmvc/kmom01/src/DI/CDIFactoryDefault.php",
+		"/C/wamp/www/phpmvc/kmom01/.gitignore",
+		"/C/wamp/www/phpmvc/projekt/app/config/text_filter.php",
+		"/C/wamp/www/phpmvc/mvc/3pp/php-markdown/Readme.md",
+		"/C/Users/Ishaq17/laravel/app/Http/Controllers/PagesController.php",
+		"/C/Users/Ishaq17/laravel/app/Http/Controllers/Controller.php",
+		"/C/Users/Ishaq17/laravel/app/User.php",
+		"/C/Users/Ishaq17/laravel/app/Http/routes.php",
+		"/C/Users/Ishaq17/laravel/config/app.php",
+		"/C/Users/Ishaq17/laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/Users/Ishaq17/laravel/app/Providers/RouteServiceProvider.php",
+		"/C/Users/Ishaq17/laravel/app/Providers/AppServiceProvider.php",
+		"/C/Users/Ishaq17/laravel/resources/views/errors/503.blade.php",
+		"/C/Users/Ishaq17/laravel/resources/views/welcome.blade.php",
+		"/C/Users/Ishaq17/laravel/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/Users/Ishaq17/laravel/config/broadcasting.php",
+		"/C/Users/Ishaq17/laravel/config/database.php",
+		"/C/Users/Ishaq17/laravel/config/view.php",
+		"/C/wamp/www/phpmvc/projekt/src/Question/QuestionsController.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/index.php",
+		"/C/wamp/www/phpmvc/projekt/src/Answers/AnswersController.php",
+		"/C/wamp/www/phpmvc/projekt/src/Tags/TagsController.php",
+		"/C/wamp/www/phpmvc/projekt/src/Comments/CommentsController.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/main.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Users/UsersController.php",
+		"/C/wamp/www/phpmvc/projekt/app/config/navbar_me.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/index.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/list-all.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Time/Time.php",
+		"/C/wamp/www/fuck.php",
+		"/C/wamp/www/phpmvc/projekt/vendor/mos/cdatabase/src/Database/TSQLQueryBuilderBasic.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/users/update.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/MVC/CDatabaseModel.php",
+		"/C/wamp/www/phpmvc/kmom04/src/Comments/CommentsController.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/view.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/app/config/navbar_database.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/tags.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/users/view.tpl.php",
+		"/C/wamp/www/phpmvc/mvc/app/view/questions/view-all.tpl.php",
+		"/C/wamp/www/phpmvc/mvc/src/Questions/QuestionsController.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/users/list-all.tpl.php",
+		"/C/wamp/www/qwst/webroot/index.php",
+		"/C/wamp/www/phpmvc/projekt/src/DI/CDIFactoryDefault.php",
+		"/C/wamp/www/qwst/src/DI/CDIFactoryDefault.php",
+		"/C/wamp/www/qwst/app/view/questions/list.tpl.php",
+		"/C/wamp/www/qwst/src/Time/Time.php",
+		"/C/wamp/www/phpmvc/mvc/src/Informer/InformerController.php",
+		"/C/wamp/www/phpmvc/mvc/src/DI/CDIFactoryDefault.php",
+		"/C/wamp/www/phpmvc/mvc/webroot/index.php",
+		"/C/wamp/www/phpmvc/mvc/webroot/config_with_app.php",
+		"/C/wamp/www/phpmvc/mvc/webroot/config.php",
+		"/C/wamp/www/phpmvc/mvc/src/MVC/CDatabaseModel.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/tags/list-all.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/css/anax-grid/style.css",
+		"/C/wamp/www/phpmvc/projekt/webroot/css/anax-grid/style.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/css/style.css",
+		"/C/wamp/www/phpmvc/projekt/app/config/theme-grid.php",
+		"/C/wamp/www/phpmvc/projekt/vendor/mos/cdatabase/src/Database/CDatabaseBasic.php",
+		"/C/wamp/www/qwst/src/Question/QuestionsController.php",
+		"/C/wamp/www/qwst/src/MVC/CDatabaseModel.php",
+		"/C/wamp/www/phpmvc/kmom04/src/Users/UsersController.php",
+		"/C/wamp/www/phpmvc/projekt/src/Comments/Comment.php",
+		"/C/wamp/www/phpmvc/projekt/src/Answers/Answer.php",
+		"/C/wamp/www/phpmvc/projekt/src/Question/Question.php",
+		"/C/wamp/www/qwst/src/Question/Question.php",
+		"/C/wamp/www/qwst/src/Authentication/Authentication.php",
+		"/C/wamp/www/phpmvc/mvc/src/Users/UsersController.php",
+		"/C/wamp/www/diabetesp3/classes/DB.php",
+		"/C/wamp/www/diabetesp3/classes/User.php",
+		"/C/wamp/www/diabetesp3/register.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/questions/form.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Answer/AnswersController.php",
+		"/C/wamp/www/phpmvc/projekt/src/Answer/Answer.php",
+		"/C/wamp/www/phpmvc/projekt/src/DI/IInjectionAware.php",
+		"/C/wamp/www/phpmvc/projekt/src/DI/TInjectable.php",
+		"/C/wamp/www/phpmvc/mvc/app/view/default/main.tpl.php",
+		"/C/wamp/www/phpmvc/mvc/src/Tags/TagsController.php",
+		"/C/wamp/www/phpmvc/mvc/app/config/database_mysql.php",
+		"/C/wamp/www/phpmvc/mvc/src/Tags/Tag.php",
+		"/C/wamp/www/phpmvc/mvc/app/view/tags/view-all.tpl.php",
+		"/C/wamp/www/qwst/src/Tag/TagsController.php",
+		"/C/wamp/www/diabetesp3/sendanswer.php",
+		"/C/wamp/www/phpmvc/kmom05/app/view/users/list-all.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Tags/Tag.php",
+		"/C/wamp/www/phpmvc/kmom05/src/Users/UsersController.php",
+		"/C/wamp/www/phpmvc/projekt/src/Users/User.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/youtube/list-videos.tpl.php",
+		"/C/wamp/www/phpmvc/kmom05/app/view/youtube/list-videos.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Session/CSession.php",
+		"/C/wamp/www/phpmvc/projekt/src/FlashMessage/CFlashMessage.php",
+		"/C/wamp/www/phpmvc/kmom02/vendor/phpmvc/comment/src/Comment/CommentController.php",
+		"/C/wamp/www/phpmvc/projekt/theme/anax-grid/index.tpl.php",
+		"/C/wamp/www/phpmvc/kmom05/app/src/Youtube/YoutubeController.php",
+		"/C/wamp/www/phpmvc/mvc/vendor/mos/cdatabase/src/Database/TSQLQueryBuilderBasic.php",
+		"/C/wamp/www/phpmvc/kmom05/webroot/youtube.php",
+		"/C/wamp/www/phpmvc/kmom05/webroot/index.php",
+		"/C/wamp/www/phpmvc/kmom05/vendor/mos/cdatabase/src/Database/TSQLQueryBuilderBasic.php",
+		"/C/wamp/www/phpmvc/projekt/vendor/mos/cdatabase/webroot/testDatabaseQueries.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/.htaccess",
+		"/C/wamp/www/phpmvc/kmom02/vendor/phpmvc/comment/src/Comment/CommentsInSession.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/config_with_app.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/config.php",
+		"/C/wamp/www/phpmvc/mvc/app/view/questions/view.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/webroot/users.php",
+		"/C/wamp/www/phpmvc/mvc/app/view/users/form.tpl.php",
+		"/C/wamp/www/phpmvc/mvc/src/Informer/Informer.php",
+		"/C/wamp/www/phpmvc/projekt/src/Flash/CFlashBasic.php",
+		"/C/wamp/www/phpmvc/kmom04/src/MVC/CDatabaseModel.php",
+		"/C/wamp/www/phpmvc/mvc/vendor/mos/cdatabase/src/Database/CDatabaseBasic.php",
+		"/C/wamp/www/phpmvc/projekt/src/Flashy/Flashy.php",
+		"/C/wamp/www/qwst/src/Users/UsersController.php",
+		"/C/wamp/www/phpmvc/projekt/app/view/users/form.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/Question/User.php",
+		"/C/wamp/www/phpmvc/projekt/vendor/mos/cform/src/HTMLForm/CForm.php",
+		"/C/wamp/www/phpmvc/mvc/theme/anax-grid/index.tpl.php",
+		"/C/wamp/www/phpmvc/mvc/theme/anax-base/index.tpl.php",
+		"/C/wamp/www/phpmvc/projekt/src/MVC/TRedirectHelpers.php",
+		"/C/wamp/www/phpmvc/projekt/src/Informer/Informer.php",
+		"/C/wamp/www/phpmvc/projekt/src/Informer/InformerController.php",
+		"/C/wamp/www/phpmvc/youtube.php",
+		"/C/wamp/www/diabetesp3/modul3resultat.php",
+		"/C/wamp/www/phpmvc/kmom02/app/view/comment/comments.tpl.php",
+		"/C/wamp/www/phpmvc/kmom02/src/Session/CSession.php",
+		"/C/wamp/www/phpmvc/projekt/src/Users/Users.php",
+		"/C/wamp/www/phpmvc/projekt/app/config/config_mysql.php",
+		"/C/wamp/www/phpmvc/kmom05/webroot/users.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addac",
+			"add",
+			"addac",
+			"save",
+			"view",
+			"filter",
+			"idaction",
+			"addact",
+			"date",
+			"add",
+			"date",
+			"addaction",
+			"date",
+			" date_default_timezone_set ",
+			"addaction",
+			"addacct",
+			"add",
+			"unset",
+			"login",
+			"update",
+			"redirect",
+			"redirecto",
+			"update",
+			"updateact",
+			"register",
+			"update",
+			"register",
+			"update",
+			"updateac",
+			"session",
+			"update",
+			"login",
+			"respon",
+			"dump",
+			"var_d",
+			"login",
+			"logout",
+			"join",
+			"findall",
+			"dispa",
+			"answer",
+			"selecta",
+			"redirect",
+			"vote",
+			"session",
+			"user",
+			"join",
+			"accept",
+			"form",
+			"date",
+			"view-all",
+			"tools",
+			"date",
+			"view-all",
+			"date",
+			"var",
+			"idaction",
+			"vote",
+			"find",
+			"fa-arrow-up",
+			"finns inte",
+			"select",
+			"delete",
+			"vote",
+			"query",
+			"delete",
+			"select",
+			"query",
+			"insert",
+			"vote",
+			"insert",
+			"save",
+			"savë",
+			"saveReal",
+			"vote",
+			"query",
+			"error",
+			"loggedin",
+			"vote",
+			"voye",
+			"auth",
+			"vote",
+			"if",
+			"endif",
+			"content",
+			"loggedin",
+			"login",
+			"form",
+			"lastid",
+			"last",
+			"            if($tag->questionid == $question->id) {\n                    $tagArray[] = $tag;\n                }",
+			"findby",
+			"query",
+			"stmt",
+			"_results",
+			"query",
+			"count",
+			"rowcount",
+			"count",
+			"login",
+			"select",
+			"query",
+			"addaction",
+			"addAc",
+			"add",
+			"$this->users->id",
+			"last",
+			"group",
+			"tagged",
+			"query",
+			"view",
+			"tagged",
+			"tagString",
+			"tagStringAction",
+			"tagged",
+			"tags",
+			"disp",
+			"tags",
+			"delete",
+			"form2",
+			"loginaction",
+			"session",
+			"set",
+			"session",
+			"SESSION",
+			"session",
+			"get",
+			"register"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"form",
+			"",
+			"$this->questions",
+			"youtube",
+			"form",
+			"youtube",
+			"access.php",
+			"$username",
+			"losenordIgen",
+			"lösenordIgen",
+			"oftenshortterm",
+			"$this->_user->data()->ID",
+			"longtermvalues.php",
+			"$form1",
+			"sam_personer.person_id",
+			"sammanhang7.php",
+			"add_personvardenvs",
+			"addpersonvardenvs",
+			"sam_personer.person_id",
+			"form1",
+			"value",
+			"sammanhang",
+			"$aktivitetervarden",
+			"3personer",
+			"$output .=",
+			"varden",
+			"commonvalues",
+			"echo",
+			"addmeningsfullavarden.php",
+			"activity_valueable",
+			"valueableLongTermActivities",
+			"valueablelongterm.php",
+			"activity_valueable",
+			"valueableshortterm.php",
+			"valueableshorttime.php",
+			"valueableShortTermActivities",
+			"oftenlongterm.php",
+			"'longterm'",
+			"echo",
+			"output",
+			"$output",
+			"\"Du har inte valt viktigaste värden <a href=\\\"centervalue.php\\\">Välj</a> viktigaste värden!\"",
+			"echo \"Du har inte valt viktigaste värden <a href=\\\"centervalue.php\\\">Välj</a> viktigaste värden!\";",
+			"utf8_unicode_ci",
+			"valueableshortterm",
+			"timeleftvalues",
+			"varden_id_",
+			"activities",
+			"keyword",
+			"</h2>",
+			"<h2>",
+			"movies.php?id=",
+			"'",
+			"lang",
+			"lag",
+			"movie",
+			"'",
+			"\"",
+			"utf8_general_ci",
+			"karnvarden_list",
+			"karnvarden_id",
+			".",
+			"&lt;",
+			"action",
+			"chickens",
+			"chicken",
+			"chickens",
+			"Chicken",
+			"chickenimg",
+			"this.y",
+			"this.x",
+			"kaka.height",
+			"kaka.position.y",
+			"kaka.width",
+			"kaka.position.x",
+			"item.position.x",
+			"player",
+			"kaka",
+			"player.position.y",
+			"player.position.x",
+			"enemy",
+			"Player.position.y",
+			"Player.position.x",
+			"Player",
+			"<p>",
+			"captionn",
+			"caption1",
+			"Old Trafford is a football stadium in Old Trafford, the home of Manchester United F.C.",
+			"text",
+			"img",
+			"<p>",
+			"color =",
+			"result",
+			".$this->data()->username.",
+			"groups.GroupID",
+			"<td>Last Name</td>",
+			"<td>First Name</td>",
+			"$user->data()->",
+			"user->data()->",
+			"</td>",
+			"<td>",
+			"Session::flash('home',$msg);\n					Redirect::to('usercp.php');",
+			"SPSumAccount",
+			"DB",
+			"weight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Question/QuestionsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15796,
+								15684
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5974.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Answers/AnswersController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10581,
+								10581
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/DI/CDIFactoryDefault.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1710.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/phpmvc/kmom01/webroot/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/phpmvc/kmom01/app/content/redovisning.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2168,
+								2168
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/phpmvc/kmom01/src/Content/CTextFilter.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								517,
+								506
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ftp",
+				"Anax-MVC-master\\app\\view\\comment\\form.tpl.php"
+			],
+			[
+				"http",
+				"C:\\Users\\Ishaq17\\AppData\\Local\\Temp\\fz3temp-1\\init.php"
+			],
+			[
+				"msg",
+				"C:\\cygwin64\\home\\Ishaq17\\dbwebb-kurser\\javascript1\\me\\redovisning.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"",
+				"getPermission"
+			]
+		],
+		"width": 490.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
