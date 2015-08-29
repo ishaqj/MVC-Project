@@ -171,36 +171,3 @@ public function indexAction() {
 
         return false;
     }
-
-    /**
-     * Reset and setup database tabel with default users.
-     *
-     * @return void
-     */
-    public function setupAction() 
-    {
-        // Enable the following line once you setup the user databse for the first time in order to protect it from getting restored by anyone.
-        /*if($this->di->session->get('users')[0]->username != "Admin") {
-            $this->di->informer->setMessage(['type' => 'warning', 'message' => 'Warning! You do not have permission to do that.']);
-            $this->redirectTo('');
-        }*/
-
-        $table = [
-            'id' => ['integer', 'primary key', 'not null', 'auto_increment'],
-            'userId' => ['integer', 'not null'],
-            'postId' => ['integer', 'not null'],
-            'tag' => ['varchar(80)'],
-        ];
-
-        $res = $this->tags->setupTable($table);
-
-        $this->informer->setMessage(array(
-            'type' => 'success',
-            'message' => 'Tag database has been wiped!'
-        ));
-     
-        $url = $this->url->create('tags');
-        $this->response->redirect($url);
-    }
- 
-}
